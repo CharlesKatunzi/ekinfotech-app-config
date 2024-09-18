@@ -1,0 +1,4 @@
+# Configure DataSource
+spring:
+  application:
+    name: job-service-prod
