@@ -1,1 +1,1 @@
-# ekinfotech-app-config
+# ekinfotech-AppConfig
