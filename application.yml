@@ -4,6 +4,8 @@ spring:
   threads:
    virtual:
     enabled: true
+ rabbitmq:
+  addresses: localhost
 management:
   endpoints:
     web:
