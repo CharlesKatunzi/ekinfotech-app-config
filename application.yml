@@ -4,10 +4,6 @@ spring:
   threads:
    virtual:
     enabled: true
- rabbitmq:
-  addresses: localhost
-  username: guest
-  password: guest
 management:
   endpoints:
     web:
