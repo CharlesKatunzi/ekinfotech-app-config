@@ -1,6 +1,9 @@
 spring:
   application:
     name: config
+  threads:
+   virtual:
+    enabled: true
 management:
   endpoints:
     web:
