@@ -13,6 +13,8 @@ spring:
     stream:
       username: guest
       password: guest
+server:
+  port: 8888
 management:
   endpoints:
     web:
